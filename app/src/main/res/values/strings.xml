@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Github Application</string>
+    <string name="title">My Github Repository</string>
+    <string name="search_hint">Search Here</string>
+    <string name="error_message">No repository found. Try Again</string>
+    <string name="ProjectLink">Repositorys Link</string>
+    <string name="name">Name</string>
+    <string name="Link">Link</string>
+    <string name="owner">"Followers Link "</string>
+    <string name="Description">Description</string>
+    <string name="repository_image">repository image</string>
+    <string name="id">Id</string>
+    <string name="enter">enter to search here</string>
+    <string name="My">My Application</string>
+    <string name="todo">TODO</string>
+</resources>
